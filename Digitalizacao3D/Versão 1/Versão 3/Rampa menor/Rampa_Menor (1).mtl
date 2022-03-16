@@ -1,0 +1,55 @@
+#
+# platform
+#
+# Materials for the file "Rampa_menor.obj"
+#
+
+
+newmtl ColorPerFace
+   illum 1
+   d 1
+   Ns 6
+   sharpness 60
+   Ni 1
+   map_Kd Rampa_menorImageColorPerFace.png
+
+newmtl _1_1
+   illum 1
+   d 1
+   Ns 6
+   sharpness 60
+   Ni 1
+   map_Kd -clamp on Rampa_menorImage_1_1.png
+
+newmtl _1_2
+   illum 1
+   d 1
+   Ns 6
+   sharpness 60
+   Ni 1
+   map_Kd -clamp on Rampa_menorImage_1_2.png
+
+newmtl m1
+   illum 1
+   d 1
+   Ns 6
+   sharpness 60
+   Ni 1
+   map_Kd -clamp on Rampa_menorImage1.png
+
+newmtl _1
+   illum 1
+   d 1
+   Ns 6
+   sharpness 60
+   Ni 1
+   map_Kd -clamp on Rampa_menorImage_1.png
+
+newmtl default
+   illum 1
+   d 1
+   Ns 6
+   sharpness 60
+   Ni 1
+
+# end of file
